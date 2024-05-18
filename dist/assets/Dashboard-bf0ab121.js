@@ -1,0 +1,1 @@
+import{j as r}from"./index-9f53dfb6.js";import{P as o}from"./PageContainer-9b0e50b2.js";import{B as s}from"./Box-5352c7b4.js";import{G as t}from"./Grid-b755f9c1.js";const m=()=>r.jsx(o,{title:"Dashboard",description:"this is Dashboard",children:r.jsx(s,{children:r.jsx(t,{container:!0,spacing:3})})});export{m as default};
